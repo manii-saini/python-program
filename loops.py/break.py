@@ -1,0 +1,6 @@
+i=0
+while(i<=50):
+    if(i==20):
+        break
+    print(i)
+    i=i+1
