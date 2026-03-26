@@ -1,0 +1,13 @@
+class student:
+    def print(self):
+        print("student class")
+class student1(student):
+    def print1(self):
+        print("student1 class")
+class student2(student1):
+    def print2(self):
+        print("student2 class")
+c=student2()
+c.print()
+c.print1()
+c.print2()                        
