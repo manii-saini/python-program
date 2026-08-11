@@ -1,0 +1,6 @@
+str = "programming"
+st = set()
+for ch in str:
+ st.add(ch)
+for ch in sorted(st):
+ print(ch, end="")
