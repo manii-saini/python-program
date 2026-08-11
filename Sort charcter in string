@@ -1,0 +1,3 @@
+str = "programming"
+str = ''.join(sorted(str))
+print(str)
