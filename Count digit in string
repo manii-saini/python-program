@@ -1,0 +1,6 @@
+str = "ab12cd45"
+count = 0
+for ch in str:
+ if ch.isdigit():
+ count += 1
+print(count)
