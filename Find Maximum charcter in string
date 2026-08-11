@@ -1,0 +1,6 @@
+str = "programming"
+mx = str[0]
+for ch in str:
+ if ch > mx:
+ mx = ch
+print(mx)
