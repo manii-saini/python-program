@@ -1,0 +1,3 @@
+str = "programming"
+str = str.upper()
+print(str)
