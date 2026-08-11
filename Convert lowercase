@@ -1,0 +1,3 @@
+str = "PROGRAMMING"
+str = str.lower()
+print(str
